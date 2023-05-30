@@ -4,12 +4,6 @@ const app = express()
 const port = 3000
 app.use(express.json())
 
-
-
-
-
-
-
 const users = []
 const checkUserId = (request, response, next) => {
     const { id } = request.params
@@ -60,22 +54,6 @@ app.delete('/users/:id', checkUserId, (request, response) => {
 
 
 })
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 app.listen(port, () => {
     console.log(`✅ server started on port ${port}`)
