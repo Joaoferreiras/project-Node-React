@@ -1,6 +1,6 @@
 # Projeto feito com React e Node.
-Cadastra novos pedidos e exlui pedidos ja feitos, com interação entre o Back-end e o Front-end.
+<h1> Cadastra novos pedidos e exlui pedidos ja feitos, com interação entre o Back-end e o Front-end.</h1>
 
 
-<img src="C:\Users\mt15281\Pictures\Screenshots\Captura de Tela (1).png" />
+<img src="" />
 
